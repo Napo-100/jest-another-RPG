@@ -1,3 +1,2 @@
 # jest-another-RPG
 
-## commit
